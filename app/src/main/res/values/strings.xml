@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="login">Entrar</string>
+    <string name="bemvindo">Bem-vindo!</string>
+    <string name="descricao">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+    <string name="email">E-mail</string>
+    <string name="foto">Escolha uma foto</string>
+    <string name="data">Autenticacao</string>
+    <string name="info">Dados pessoais</string>
+    <string name="nome">Qual seu nome?</string>
+    <string name="cidade">Qual sua cidade?</string>
+    <string name="aniversario">Aniversario</string>
+    <string name="levelgamer">Qua seu nivel gamer?</string>
+    <string name="password">Password</string>
+    <string name="lembrarme">Lembrar-me</string>
+    <string name="sign_up">Entrar</string>
+    <string name="contanova">Criar conta</string>
+    <string name="console">Qual seu console favorito?</string>
+    <string name="sex">Sex:</string>
+    <string name="fem">Female</string>
+    <string name="masc">Male</string>
+    <string name="user_name">Eduardo Perucci</string>
+    <string name="user_email">peperucci@email.com\\</string>
+
+    <string-array name="video_games">
+        <item>PlayStation</item>
+        <item>Xbox</item>
+        <item>Super Nintendo</item>
+        <item>Nintendo Switch</item>
+        <item>PSP</item>
+        <item>PSVITA</item>
+    </string-array>
+</resources>
